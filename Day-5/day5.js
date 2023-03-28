@@ -24,8 +24,6 @@ while(verificador == "Sim"){
     }
 
 }
-    
-
 
 console.log(`Lista de Compras: \n Frutas: ${listaFrutas} \n Doces : ${listaDoces} \n Laticinios: ${listaLaticinios} \n Congelados: ${listaCongelados}`)
 
